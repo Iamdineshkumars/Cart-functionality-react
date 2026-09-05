@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+
+.main{
+  background-color: #dad4d4ce;
+}
+.button{
+  z-index:9999;
+}
